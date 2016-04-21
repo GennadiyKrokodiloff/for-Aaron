@@ -1,0 +1,16 @@
+[
+  {
+    "AccessKeyId": 1,
+    "UserId": 1,
+    "AccessKey": "adminaccesskey1",
+    "Active": true,
+    "Role": "admin"
+},
+  {
+    "AccessKeyId": 2,
+    "UserId": 2,
+    "AccessKey": "useraccesskey1",
+    "Active": true,
+    "Role": "user"
+  }
+]

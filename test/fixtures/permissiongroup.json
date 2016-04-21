@@ -1,0 +1,14 @@
+[
+  {
+	"PermissionGroupId": 1,
+	"Name": "Some group",
+	"DateCreated": "123444",
+	"CreatedByUser": "kolos"
+},
+  {
+	"PermissionGroupId": 2,
+	"Name": "Inother group",
+	"DateCreated": "123444",
+	"CreatedByUser": "folos"
+  }
+]

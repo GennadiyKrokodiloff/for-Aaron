@@ -1,0 +1,83 @@
+
+[
+  {
+    "ScheduledVisitationId": 1,
+    "InmateId": 1,
+    "FacilityId": 1,
+    "isFrommVisitationRequest": true,
+    "VisitationRequestId": 1,
+    "Date": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "AllowUsersToJoin": true,
+    "DateCreated": "",
+    "CreatedByUser": 1,
+    "LastUpdated": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "LastUpdatedByUser": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "Status": "open",
+    "Anonymous": false
+  },
+
+  {
+    "ScheduledVisitationId": 2,
+    "InmateId": 2,
+    "FacilityId": 2,
+    "isFrommVisitationRequest": true,
+    "VisitationRequestId": 2,
+    "Date": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "AllowUsersToJoin": true,
+    "DateCreated": "",
+    "CreatedByUser": 2,
+    "LastUpdated": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "LastUpdatedByUser": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "Status": "open",
+    "Anonymous": false
+  },
+
+  {
+    "ScheduledVisitationId": 3,
+    "InmateId": 3,
+    "FacilityId": 3,
+    "isFrommVisitationRequest": true,
+    "VisitationRequestId": 3,
+    "Date": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "AllowUsersToJoin": true,
+    "DateCreated": "",
+    "CreatedByUser": 3,
+    "LastUpdated": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "LastUpdatedByUser": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "Status": "open",
+    "Anonymous": false
+  },
+
+  {
+    "ScheduledVisitationId": 4,
+    "InmateId": 3,
+    "FacilityId": 3,
+    "isFrommVisitationRequest": true,
+    "VisitationRequestId": 3,
+    "Date": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "AllowUsersToJoin": true,
+    "DateCreated": "",
+    "CreatedByUser": 1,
+    "LastUpdated": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "LastUpdatedByUser": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "Status": "open",
+    "Anonymous": false
+  },
+
+  {
+    "ScheduledVisitationId": 5,
+    "InmateId": 3,
+    "FacilityId": 3,
+    "isFrommVisitationRequest": false,
+    "VisitationRequestId": 1,
+    "Date": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "AllowUsersToJoin": true,
+    "DateCreated": "",
+    "CreatedByUser": 1,
+    "LastUpdated": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "LastUpdatedByUser": "Sat, 19 Sep 2015 00:23:12 GMT",
+    "Status": "open",
+    "Anonymous": false
+  }
+]
+

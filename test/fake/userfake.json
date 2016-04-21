@@ -1,0 +1,25 @@
+
+[{ "emailadress": "ayerhan@mail.com",
+    "password": "ayerhan",
+    "firstname": "jose",
+    "username": "ayerhan",
+    "address": "ayerhanaddress",
+    "city": "kiev",
+    "state": "Kyiv",
+    "zip": "2323",
+    "address_line_2": "ayehanaddress2",
+    "lastname": "ayerhanlastname"
+  }
+, {
+  "emailadress": "afa@mail.com",
+  "password": "afa",
+  "firstname": "afa",
+  "username": "afaayerhan",
+  "address": "afaadress",
+  "city": "kharkiv",
+  "state": "Kharkov",
+  "zip": "23343",
+  "address_line_2": "afaadress2",
+  "lastname": "ayerhanlastname"
+  }
+]
